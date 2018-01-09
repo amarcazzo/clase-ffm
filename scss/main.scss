@@ -1,0 +1,44 @@
+// compileOnSave compressed compileCompressed: ../css/main.min.css
+
+@import "palette";
+
+$lila: rgba(156, 39, 176, 0.9)!important;
+$negro: rgba(0, 0, 0, 0.9)!important;
+$rojo: rgba(204, 33, 40, 0.9)!important;
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+  background-color: $primary-text-color;
+  li {
+    align-self: center;
+  }
+}
+
+.logo {
+  height: 50px;
+}
+
+.card {
+  color: $primary-color-text;
+  img {
+    height: 150px;
+    width: 150px;
+    align-self: center;
+    padding: 3px;
+  }
+}
+
+.frontend {
+  background-color: $lila;
+}
+
+.mean {
+  background-color: $negro;
+}
+
+.swift {
+  background-color: $rojo;
+}

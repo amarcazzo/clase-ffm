@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Frontend for Monsters",
+    "precio": "$6000",
+    "imagen": "../img/frontend.png",
+    "class": "frontend"
+  },
+  {
+    "nombre": "Mean",
+    "precio": "$2000",
+    "imagen": "../img/mean.png",
+    "class": "mean"
+  },
+  {
+    "nombre": "Swift",
+    "precio": "$2000",
+    "imagen": "../img/swift.png",
+    "class": "swift"
+  }
+]
